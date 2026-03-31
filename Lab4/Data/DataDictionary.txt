@@ -1,0 +1,50 @@
+The DataDictionary is a description of all the files in the Data directory. It first lists the name
+of the file. Then lists the format of the data on each line. Following that is a breakdown of each
+element of the data with the name provided in the format list and a description of what it represents.
+
+Entities.csv
+data format: name, classification, residence, mother, father, domain, roman_name, symbol, legacy, abilities
+data description:
+    name: name of the entity
+    classification: species of the entity
+    residence: the place of residence for the entity
+    mother: the mother of the entity
+    father: the father of the entity
+    domain: the items, philosophies, territories, etc. under the entity's rule or influence
+    roman_name: the name or equivalent of the entity in Roman Mythology
+    symbol: symbolic representation associated with the entity
+    legacy: lasting impact, achievements, or influence left behind by the entity
+    abilities: special powers, abilities, or attributes possessed by the entity
+
+
+Locations.csv
+data format: name, classification, real, geographical_location, size, description
+data description:
+    name: the name/title of the location
+    classification: the type or category of the location
+    real: boolean value denoting whether the location is/was a real (True) or fictional (False) location
+    geographical_location: the real-world place associated with the location if real
+    size: physical size or dimensions of the location
+    description: brief description or notable features of the location
+
+Items.csv
+data format: name, classification, owner, description
+data description:
+    name: the title of the object
+    classification: the type of item the object is such as sword, clothing, etc.
+    owner: the believed owner of the object
+    description: a brief description of the item or its history
+
+Creative_Work.csv
+data format: title, classification, creator, date, characters, locations, relevant_works, medium, link
+data description:
+    title: the title of the piece of literature or artwork
+    classification: the type or category of the creative work
+    creator: the author, artist, or creator of the work
+    date: the estimated time period in which the piece was created
+    characters: the major characters or figures featured in the work
+    locations: the setting or locations depicted in the work
+    relevant_works: other related works or references
+    medium: the materials used to create the work
+    link: web link to access the work
+    
