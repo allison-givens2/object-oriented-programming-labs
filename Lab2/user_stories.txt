@@ -1,0 +1,109 @@
+Title:       parking availability updates
+As a(n):     general user
+I need/want: updates on what parking lots are full
+so that:     I will be able to find a parking spot without searching lots that are already full
+
+Title:       rating system 
+As a(n):     driver
+I need/want: to be able to rate riders
+so that:     other drivers experience will be safe and enjoyable because they will know information about their riders
+
+Title:       rating system
+As a(n):     rider
+I need/want: to be able to rate drivers
+so that:     other riders experience will be safe and enjoyable because they will know information about their drivers
+
+Title:       posting destination
+As a(n):     driver
+I need/want: to post information about where I'm planning to travel
+so that:     other users can join me
+
+Title:       hailing rides
+As a(n):     rider
+I need/want: to inform other users of my desired destination
+so that:     a driver can pick me up and take me to my desired destination
+
+Title:       request to join
+As a(n):     rider
+I need/want: to request to join a driver's posted destination
+so that:     I can join on a route that is already planned
+
+Title:       compensation 
+As a(n):     driver
+I need/want: compensation to be posted in the app broken down by each drive
+so that:     I can see what I have been compensated for driving
+
+Title:       time posting
+As a(n):     rider
+I need/want: to post the arrival time I need for a destination 
+so that:     my driver knows when I need to arrive so they can plan accordingly 
+
+Title:       time posting
+As a(n):     driver
+I need/want: to post the arrival time I plan for a destination
+so that:     those riding with me know my plan and can make sure there timing aligns with mine
+
+Title:       messaging
+As a(n):     general user
+I need/want: a way to message other users 
+so that:     I can ensure a ride is set up properly 
+
+Title:       confirmation
+As a(n):     general user
+I need/want: confirmation that a ride is set up
+so that:     I know if a specific carpool is happening or if I need to plan differently
+
+Title:       car space
+As a(n):     driver
+I need/want: to post the number of seats in my car
+so that:     my car does not get overfilled and see whether or not I could take more people
+
+Title:       denial
+As a(n):     general user
+I need/want: to be able to deny a user based on their rating
+so that:     I do not have to have a bad experience with someone who is rated poorly
+
+Title:       traffic updates
+As a(n):     general user
+I need/want: to see any major traffic events
+so that:     I can plan different routes or to leave earlier so my arrival time is not affected
+
+Title:       pick up location
+As a(n):     rider
+I need/want: to post where I need to be picked up from
+so that:     I can be easily found by a driver
+
+Title:       reporting
+As a(n):     general user
+I need/want: to report other users for any unsafe/illegal conduct
+so that:     the platform would remain safe and users who do wrong would not be allowed to continue riding or driving
+
+Title:       ride tracking
+As a(n):     rider
+I need/want: to see the driver's current location from a drive I am joining
+so that:     I can see what is happening on the route and real time
+
+Title:	     verification
+As a(n):     general user
+I need/want: a specific code for the ride
+so that:     no one ends up in the wrong car or on the wrong ride
+
+Title:       map
+As a(n):     rider
+I need/want: a map in the app displaying all the current routes
+so that:     I can see if there is a route making stops where I need to go
+
+Title:       route filters
+As a(n):     rider
+I need/want: to filter routes by destination
+so that:     I can more easily see if there is a route going where I need to go
+
+Title:       safety trainings
+As a(n):     administrator
+I need/want: the app to require safety training course for drivers
+so that:     it ensures that drivers are properly trained to make sure rides remain safe
+
+Title:       user removal
+As a(n):     administrator
+I need/want: to be able to ban user based on reports
+so that:     people who are doing unsafe things will not be allowed into the system
