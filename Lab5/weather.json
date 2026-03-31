@@ -1,0 +1,92 @@
+{
+  "2025-10-01": {
+    "summary": "Partly cloudy, high 72F, low 55F",
+    "hourly": [
+      {"time": "08:00", "temp": 60, "condition": "Cloudy"},
+      {"time": "12:00", "temp": 70, "condition": "Sunny"},
+      {"time": "16:00", "temp": 72, "condition": "Sunny"},
+      {"time": "20:00", "temp": 65, "condition": "Clear"}
+    ]
+  },
+  "2025-10-02": {
+    "summary": "Rain, high 65F, low 50F",
+    "hourly": [
+      {"time": "08:00", "temp": 55, "condition": "Rain"},
+      {"time": "12:00", "temp": 63, "condition": "Showers"},
+      {"time": "16:00", "temp": 65, "condition": "Cloudy"},
+      {"time": "20:00", "temp": 58, "condition": "Drizzle"}
+    ]
+  },
+  "2025-10-03": {
+    "summary": "Sunny, high 75F, low 56F",
+    "hourly": [
+      {"time": "08:00", "temp": 58, "condition": "Sunny"},
+      {"time": "12:00", "temp": 72, "condition": "Sunny"},
+      {"time": "16:00", "temp": 75, "condition": "Sunny"},
+      {"time": "20:00", "temp": 62, "condition": "Clear"}
+    ]
+  },
+  "2025-10-04": {
+    "summary": "Windy, high 68F, low 52F",
+    "hourly": [
+      {"time": "08:00", "temp": 54, "condition": "Windy"},
+      {"time": "12:00", "temp": 66, "condition": "Partly Cloudy"},
+      {"time": "16:00", "temp": 68, "condition": "Windy"},
+      {"time": "20:00", "temp": 59, "condition": "Breezy"}
+    ]
+  },
+  "2025-10-05": {
+    "summary": "Overcast, high 62F, low 49F",
+    "hourly": [
+      {"time": "08:00", "temp": 50, "condition": "Overcast"},
+      {"time": "12:00", "temp": 60, "condition": "Cloudy"},
+      {"time": "16:00", "temp": 62, "condition": "Overcast"},
+      {"time": "20:00", "temp": 53, "condition": "Cloudy"}
+    ]
+  },
+  "2025-10-06": {
+    "summary": "Storms, high 64F, low 48F",
+    "hourly": [
+      {"time": "08:00", "temp": 52, "condition": "Storms"},
+      {"time": "12:00", "temp": 61, "condition": "Thunderstorms"},
+      {"time": "16:00", "temp": 64, "condition": "Stormy"},
+      {"time": "20:00", "temp": 55, "condition": "Rain"}
+    ]
+  },
+  "2025-10-07": {
+    "summary": "Clear, high 70F, low 51F",
+    "hourly": [
+      {"time": "08:00", "temp": 55, "condition": "Clear"},
+      {"time": "12:00", "temp": 68, "condition": "Sunny"},
+      {"time": "16:00", "temp": 70, "condition": "Sunny"},
+      {"time": "20:00", "temp": 58, "condition": "Clear"}
+    ]
+  },
+  "2025-10-08": {
+    "summary": "Foggy morning, high 67F, low 52F",
+    "hourly": [
+      {"time": "08:00", "temp": 54, "condition": "Fog"},
+      {"time": "12:00", "temp": 65, "condition": "Partly Cloudy"},
+      {"time": "16:00", "temp": 67, "condition": "Cloudy"},
+      {"time": "20:00", "temp": 56, "condition": "Clear"}
+    ]
+  },
+  "2025-10-09": {
+    "summary": "Chilly, high 58F, low 45F",
+    "hourly": [
+      {"time": "08:00", "temp": 46, "condition": "Cold"},
+      {"time": "12:00", "temp": 55, "condition": "Overcast"},
+      {"time": "16:00", "temp": 58, "condition": "Partly Cloudy"},
+      {"time": "20:00", "temp": 47, "condition": "Cold"}
+    ]
+  },
+  "2025-10-10": {
+    "summary": "Mild, high 69F, low 53F",
+    "hourly": [
+      {"time": "08:00", "temp": 53, "condition": "Cloudy"},
+      {"time": "12:00", "temp": 67, "condition": "Sunny"},
+      {"time": "16:00", "temp": 69, "condition": "Sunny"},
+      {"time": "20:00", "temp": 55, "condition": "Clear"}
+    ]
+  }
+}
