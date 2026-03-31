@@ -17,11 +17,3 @@ This is a compilation of the labs completed for the Object-Oriented Programming 
 ## Lab 5 – Working with Classes and Data in Python
 **Objective:** Implement classes and manage data.  
 **Summary:** Developed Python classes to organize and manage data stored in JSON format.
-
-## Lab 7 – Basic Git Operations
-**Objective:** Learn foundational version control skills.  
-**Summary:** Practiced essential Git commands, including initializing repositories, committing changes, branching, and merging, to manage project code efficiently.
-
-## Lab 8 – Collaborating in Git
-**Objective:** Apply Git for team collaboration.  
-**Summary:** Worked on a shared calculator project across multiple phases. Implemented collaborative workflows in Git, including pull requests, conflict resolution, and coordinated version control among team members.
